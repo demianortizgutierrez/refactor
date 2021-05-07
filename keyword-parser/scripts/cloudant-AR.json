@@ -8,7 +8,6 @@
           "ifAloneGoToBot": false,
           "ActiveUntil": "2050-03-14T00:00:00.000-03:00"
       },
-      
       {
           "keyword": "SOS",
           "aliases": [
@@ -58,6 +57,14 @@
           "country": "AR",
           "ifAloneGoToBot": false,
           "ActiveUntil": "2050-03-14T00:00:00.000-03:00"
+      },
+      {
+          "keyword": "BAD",
+          "aliases": [],
+          "action": "TEST_BAD_DATE",
+          "country": "CO",
+          "ifAloneGoToBot": false,
+          "ActiveUntil": "2010-01-01T00:00:00.000-01:00"
       }
   ]
 }
